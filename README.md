@@ -3,7 +3,7 @@
 <h3 align="center">Data Analytics • Data Science • Machine Learning</h3>
 
 <p align="center">
-Transforming data into actionable insights through analytics, visualization, and machine learning.
+Building intelligent data solutions with Python, SQL, and Machine Learning.
 </p>
 
 ---
@@ -25,37 +25,37 @@ I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learnin
 ### 📊 Data Analytics
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib" />
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### 🤖 Data Science & Machine Learning
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
-**Core Skills**
+**Concepts**
 
+- Machine Learning
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Statistical Analysis
-- Machine Learning
 - Model Evaluation
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 📚 Python Libraries
+### 📚 Libraries
 
 <p>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -64,12 +64,12 @@ I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learnin
 <img src="https://skillicons.dev/icons?i=azure,docker" />
 </p>
 
-### ⚙️ Development Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI%20Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -83,9 +83,11 @@ End-to-end healthcare analytics project using **Python, MySQL, and Power BI** to
 🔗 **Repository**  
 https://github.com/sahilkhyalia51/Healthcare_analytics
 
+---
+
 ### 🛍️ Customer Behavior Analysis
 
-Data analytics project focused on understanding customer purchasing behavior and generating actionable business insights using **Python, SQL, and Power BI**.
+Data analytics project focused on analyzing customer purchasing behavior and generating actionable business insights using **Python, SQL, and Power BI**.
 
 🔗 **Repository**  
 https://github.com/sahilkhyalia51/customer_behavior_analysis
@@ -96,10 +98,10 @@ https://github.com/sahilkhyalia51/customer_behavior_analysis
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
