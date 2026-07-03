@@ -99,5 +99,5 @@ https://github.com/sahilkhyalia51/customer_behavior_analysis
   <a href="mailto:sahilkhyalia51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  **📧 Email:** sahilkhyalia51@gmail.com
 </p>
+**📧 Email:** sahilkhyalia51@gmail.com
