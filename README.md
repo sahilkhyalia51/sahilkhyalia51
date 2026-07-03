@@ -6,9 +6,13 @@
 Transforming data into actionable insights through analytics, visualization, and machine learning.
 </p>
 
+---
+
 ## 💼 About Me
 
 I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learning** projects that transform raw data into actionable business insights. My interests include analytics, predictive modeling, business intelligence, and AI-driven decision-making. I am currently pursuing an **M.Sc. in Bioinformatics** while continuously expanding my expertise through real-world, data-driven projects.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,10 +25,9 @@ I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learnin
 ### 📊 Data Analytics
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy" />
-<img height="48" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img height="48" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img height="48" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib" />
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/>
 </p>
 
 ### 🤖 Data Science & Machine Learning
@@ -33,19 +36,26 @@ I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learnin
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" />
 </p>
 
-- Machine Learning
+**Core Skills**
+
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Statistical Analysis
+- Machine Learning
 - Model Evaluation
 
 ### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img height="48" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+</p>
+
+### 📚 Python Libraries
+
+<p>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -58,26 +68,29 @@ I work on end-to-end **Data Analytics**, **Data Science**, and **Machine Learnin
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img height="48" src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img height="48" src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img height="48" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Healthcare Analytics
 
-End-to-end healthcare analytics project using **Python, MySQL, and Power BI** to analyze hospital performance, patient admissions, billing trends, insurance claims, and operational KPIs.
+End-to-end healthcare analytics project using **Python, MySQL, and Power BI** to analyze patient admissions, hospital performance, billing trends, insurance claims, and operational KPIs.
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/sahilkhyalia51/Healthcare_analytics
 
 ### 🛍️ Customer Behavior Analysis
 
 Data analytics project focused on understanding customer purchasing behavior and generating actionable business insights using **Python, SQL, and Power BI**.
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/sahilkhyalia51/customer_behavior_analysis
+
+---
 
 ## 📫 Connect With Me
 
